@@ -1,1 +1,10 @@
-/* your code */
+.odd{
+	background-color:white;
+}
+.even{
+	background-color:#9e998b;
+}
+#head{
+	background-color:#220cb0;
+	color:white;
+}
